@@ -1,3 +1,3 @@
 # Umaish-repo
 This is my first Git Repository.
-Author - Malik Umaish
+Author - Malik Umaish (Malik Umaish)
